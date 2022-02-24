@@ -1,0 +1,8 @@
+algorithm,mean_duration_time,mean_node_size
+MCS,0 days 00:00:00.140740,3170
+Jaccard,0 days 00:00:00.143260,3170
+VertexRanking,0 days 00:00:01.009710,3170
+VertexEdgeOverlap,0 days 00:00:00.142540,3170
+BagOfCliques,0 days 00:00:00.197410,3170
+BagOfNodes,0 days 00:00:00.001890,3170
+WeisfeleirLehmanKernel,0 days 00:00:00.116440,3170
